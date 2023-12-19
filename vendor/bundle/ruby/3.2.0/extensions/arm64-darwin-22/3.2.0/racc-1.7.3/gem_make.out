@@ -1,0 +1,18 @@
+current directory: /Users/donshin/Rails/messageme/vendor/bundle/ruby/3.2.0/gems/racc-1.7.3/ext/racc/cparse
+/Users/donshin/.rvm/rubies/ruby-3.2.2/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/donshin/Rails/messageme/vendor/bundle/ruby/3.2.0/gems/racc-1.7.3/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20231219-16943-8evjhd sitelibdir\=./.gem.20231219-16943-8evjhd clean
+
+current directory: /Users/donshin/Rails/messageme/vendor/bundle/ruby/3.2.0/gems/racc-1.7.3/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20231219-16943-8evjhd sitelibdir\=./.gem.20231219-16943-8evjhd
+compiling cparse.c
+linking shared-object racc/cparse.bundle
+
+current directory: /Users/donshin/Rails/messageme/vendor/bundle/ruby/3.2.0/gems/racc-1.7.3/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20231219-16943-8evjhd sitelibdir\=./.gem.20231219-16943-8evjhd install
+/opt/homebrew/opt/coreutils/bin/ginstall -c -m 0755 cparse.bundle ./.gem.20231219-16943-8evjhd/racc
+
+current directory: /Users/donshin/Rails/messageme/vendor/bundle/ruby/3.2.0/gems/racc-1.7.3/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20231219-16943-8evjhd sitelibdir\=./.gem.20231219-16943-8evjhd clean

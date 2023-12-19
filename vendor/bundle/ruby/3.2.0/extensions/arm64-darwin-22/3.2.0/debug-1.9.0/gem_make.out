@@ -1,0 +1,19 @@
+current directory: /Users/donshin/Rails/messageme/vendor/bundle/ruby/3.2.0/gems/debug-1.9.0/ext/debug
+/Users/donshin/.rvm/rubies/ruby-3.2.2/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/donshin/Rails/messageme/vendor/bundle/ruby/3.2.0/gems/debug-1.9.0/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20231219-16943-vwxcxn sitelibdir\=./.gem.20231219-16943-vwxcxn clean
+
+current directory: /Users/donshin/Rails/messageme/vendor/bundle/ruby/3.2.0/gems/debug-1.9.0/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20231219-16943-vwxcxn sitelibdir\=./.gem.20231219-16943-vwxcxn
+compiling debug.c
+compiling iseq_collector.c
+linking shared-object debug/debug.bundle
+
+current directory: /Users/donshin/Rails/messageme/vendor/bundle/ruby/3.2.0/gems/debug-1.9.0/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20231219-16943-vwxcxn sitelibdir\=./.gem.20231219-16943-vwxcxn install
+/opt/homebrew/opt/coreutils/bin/ginstall -c -m 0755 debug.bundle ./.gem.20231219-16943-vwxcxn/debug
+
+current directory: /Users/donshin/Rails/messageme/vendor/bundle/ruby/3.2.0/gems/debug-1.9.0/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20231219-16943-vwxcxn sitelibdir\=./.gem.20231219-16943-vwxcxn clean
